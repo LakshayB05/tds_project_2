@@ -1,4 +1,4 @@
-# script
+# /// script
 # dependencies = [
 #   "httpx",
 #   "pandas",
@@ -7,8 +7,9 @@
 #   "matplotlib",
 #   "numpy",
 #   "tabulate",
+#   "requests",
 # ]
-
+# ///
 
 import os
 import sys
